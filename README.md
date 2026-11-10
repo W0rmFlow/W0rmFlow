@@ -138,7 +138,8 @@ Cybersecurity trainee building hands-on blue-team skills: analyzing packets, inv
 
 ```diff
 + Deepening SOC Tier 1 skills: alert triage, log analysis, threat hunting
-+ Studying CCNA: routing, switching, OSPF, ACLs, NAT
++ Studied CCNA: routing, switching, OSPF, ACLs, NAT
++ Studied MCSA: Windows Server Administration, Active Directory, DNS, DHCP, and Group Policy (GPO)
 + Building more hands-on labs and writing them up here
 ! Looking for an IT & Cybersecurity internship where I can learn and contribute
 ```
