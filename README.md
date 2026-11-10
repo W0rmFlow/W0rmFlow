@@ -62,35 +62,35 @@ Cybersecurity trainee building hands-on blue-team skills: analyzing packets, inv
 <div align="center">
 
 ### 🔵 Blue Team and SOC
-![SOC](https://img.shields.io/badge/SOC_Fundamentals-0d1117?style=flat-square&labelColor=0d1117&color=00f0ff)
-![Log Analysis](https://img.shields.io/badge/Log_Analysis-0d1117?style=flat-square&labelColor=0d1117&color=00f0ff)
-![Threat Detection](https://img.shields.io/badge/Threat_Detection-0d1117?style=flat-square&labelColor=0d1117&color=00f0ff)
-![Incident Response](https://img.shields.io/badge/Incident_Response_Basics-0d1117?style=flat-square&labelColor=0d1117&color=00f0ff)
-![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-0d1117?style=flat-square&labelColor=0d1117&color=00f0ff)
+![SOC](https://img.shields.io/badge/SOC_Fundamentals-0d1117?style=flat-square&labelColor=0d1117&color=0011FF)
+![Log Analysis](https://img.shields.io/badge/Log_Analysis-0d1117?style=flat-square&labelColor=0d1117&color=0011FF)
+![Threat Detection](https://img.shields.io/badge/Threat_Detection-0d1117?style=flat-square&labelColor=0d1117&color=0011FF)
+![Incident Response](https://img.shields.io/badge/Incident_Response_Basics-0d1117?style=flat-square&labelColor=0d1117&color=0011FF)
+![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-0d1117?style=flat-square&labelColor=0d1117&color=0011FF)
 
 ### 📡 Monitoring and Analysis Tools
-![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=00f0ff)
-![Splunk](https://img.shields.io/badge/Splunk-0d1117?style=for-the-badge&logo=splunk&logoColor=00f0ff)
-![Kibana](https://img.shields.io/badge/Kibana-0d1117?style=for-the-badge&logo=kibana&logoColor=00f0ff)
-![Security Onion](https://img.shields.io/badge/Security_Onion%20%2F%20Sguil-0d1117?style=for-the-badge&logoColor=00f0ff)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=49009E)
+![Splunk](https://img.shields.io/badge/Splunk-0d1117?style=for-the-badge&logo=splunk&logoColor=49009E)
+![Kibana](https://img.shields.io/badge/Kibana-0d1117?style=for-the-badge&logo=kibana&logoColor=49009E)
+![Security Onion](https://img.shields.io/badge/Security_Onion%20%2F%20Sguil-0d1117?style=for-the-badge&logoColor=49009E)
 
 ### 🕷️ Vulnerability and Web Security
-![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logoColor=b026ff)
-![Nessus](https://img.shields.io/badge/Nessus-0d1117?style=for-the-badge&logo=tenable&logoColor=b026ff)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=portswigger&logoColor=b026ff)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-0d1117?style=for-the-badge&logo=owasp&logoColor=b026ff)
-![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=b026ff)
+![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logoColor=87000C)
+![Nessus](https://img.shields.io/badge/Nessus-0d1117?style=for-the-badge&logo=tenable&logoColor=87000C)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=portswigger&logoColor=87000C)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-0d1117?style=for-the-badge&logo=owasp&logoColor=87000C)
+![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=87000C)
 
 ### 🌐 Networking and Systems
-![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-0d1117?style=for-the-badge&logo=cisco&logoColor=00ff9c)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff9c)
-![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00ff9c)
-![Windows](https://img.shields.io/badge/Windows_Server-0d1117?style=for-the-badge&logo=windows&logoColor=00ff9c)
-![Routing](https://img.shields.io/badge/VLANs%20%7C%20OSPF%20%7C%20ACLs%20%7C%20NAT%20%7C%20DHCP-0d1117?style=for-the-badge&logoColor=00ff9c)
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-0d1117?style=for-the-badge&logo=cisco&logoColor=4B8200)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=4B8200)
+![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=4B8200)
+![Windows](https://img.shields.io/badge/Windows_Server-0d1117?style=for-the-badge&logo=windows&logoColor=4B8200)
+![Routing](https://img.shields.io/badge/VLANs%20%7C%20OSPF%20%7C%20ACLs%20%7C%20NAT%20%7C%20DHCP-0d1117?style=for-the-badge&logoColor=4B8200)
 
 ### 📊 Data
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00f0ff)
-![Power BI](https://img.shields.io/badge/Power_BI%20%2F%20DAX-0d1117?style=for-the-badge&logo=powerbi&logoColor=00f0ff)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=824A00)
+![Power BI](https://img.shields.io/badge/Power_BI%20%2F%20DAX-0d1117?style=for-the-badge&logo=powerbi&logoColor=824A00)
 
 </div>
 
@@ -113,7 +113,7 @@ Cybersecurity trainee building hands-on blue-team skills: analyzing packets, inv
 [2026-08 → 2026-09]  Penetration Tester Trainee ........ National Telecommunication Institute (NTI)
 [2026-08 → 2026-09]  IT Intern ......................... Bank ABC Egypt
 [2026-08 → 2026-09]  Generative AI Summer Intern ....... CIB Egypt
-[2026-05 → present ]  Network Engineer Trainee .......... Raya Academy (MCSA + CCNA topics)
+[2026-05 → 2026-10 ]  Network Engineer Trainee .......... Raya Academy (MCSA + CCNA topics)
 [2026-05 → 2026-07]  Cybersecurity Trainee ............. NTI / Cisco CyberOps Associate
 [2025-06 → 2025-12]  Power BI Specialist Trainee ....... Digital Egypt Pioneers Initiative (DEPI)
 ```
